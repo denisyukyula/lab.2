@@ -1,0 +1,1 @@
+print("MehMat-ce kruto")
