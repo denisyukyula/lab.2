@@ -1,0 +1,5 @@
+print("MehMat-ce kruto")
+
+MehMat-ce kruto
+MehMat-ce kruto
+MehMat-ce kruto
